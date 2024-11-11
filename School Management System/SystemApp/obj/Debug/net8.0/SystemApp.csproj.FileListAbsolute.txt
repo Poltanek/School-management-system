@@ -1,0 +1,14 @@
+C:\Programming\C#\Projects\School Management System\SystemApp\bin\Debug\net8.0\SystemApp.exe
+C:\Programming\C#\Projects\School Management System\SystemApp\bin\Debug\net8.0\SystemApp.deps.json
+C:\Programming\C#\Projects\School Management System\SystemApp\bin\Debug\net8.0\SystemApp.runtimeconfig.json
+C:\Programming\C#\Projects\School Management System\SystemApp\bin\Debug\net8.0\SystemApp.dll
+C:\Programming\C#\Projects\School Management System\SystemApp\bin\Debug\net8.0\SystemApp.pdb
+C:\Programming\C#\Projects\School Management System\SystemApp\obj\Debug\net8.0\SystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\Projects\School Management System\SystemApp\obj\Debug\net8.0\SystemApp.AssemblyInfoInputs.cache
+C:\Programming\C#\Projects\School Management System\SystemApp\obj\Debug\net8.0\SystemApp.AssemblyInfo.cs
+C:\Programming\C#\Projects\School Management System\SystemApp\obj\Debug\net8.0\SystemApp.csproj.CoreCompileInputs.cache
+C:\Programming\C#\Projects\School Management System\SystemApp\obj\Debug\net8.0\SystemApp.dll
+C:\Programming\C#\Projects\School Management System\SystemApp\obj\Debug\net8.0\refint\SystemApp.dll
+C:\Programming\C#\Projects\School Management System\SystemApp\obj\Debug\net8.0\SystemApp.pdb
+C:\Programming\C#\Projects\School Management System\SystemApp\obj\Debug\net8.0\SystemApp.genruntimeconfig.cache
+C:\Programming\C#\Projects\School Management System\SystemApp\obj\Debug\net8.0\ref\SystemApp.dll
